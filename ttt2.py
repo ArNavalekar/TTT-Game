@@ -58,5 +58,5 @@ for row in range(3):
         buttons[row][column].grid(row=row, column=column)
 
 # Start the game
-new_game()
+new_game() 
 window.mainloop()
